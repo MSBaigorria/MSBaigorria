@@ -1,6 +1,15 @@
-### Hi there 👋
+¡Hi 👋! I'm Santiago
+I'm a Front End developer
+¡Check my content 👇!
+
+
 <h2 align="center">🔧 Languages and Tools</h3>
-<p align"center">
+<p align"center">I'm a <strong>Front End</strong> developer<br />¡Check my content 👇!</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/carlos-gonzalo-gallardo-a329a7239/" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicode" height="28px" width="28px" />
+  </a>
+</p>
   
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
