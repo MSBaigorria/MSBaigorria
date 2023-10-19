@@ -1,9 +1,9 @@
+<h2 align="center">🔧 Languages and Tools</h3>
 ¡Hi 👋! I'm Santiago
 I'm a Developer - Full Stack developer
 ¡Check my content 👇!
 
 
-<h2 align="center">🔧 Languages and Tools</h3>
 <p align"center">I'm a <strong>Front End</strong> developer<br />¡Check my content 👇!</p>
 <p align="center">
     <a href="https://www.linkedin.com/in/santiago-baigorria/" target="blank" style='margin-right:4px'>
