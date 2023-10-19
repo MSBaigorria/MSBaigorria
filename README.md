@@ -4,13 +4,13 @@ I'm a Developer - Full Stack developer
     <a href="https://www.linkedin.com/in/santiago-baigorria/" target="blank" style='margin-right:4px'>
 
 
-<h2 align="center">🔧 Languages and Tools</h3>
 <p align"center">I'm a <strong>Front End</strong> developer<br />¡Check my content 👇!</p>
 <p align="center">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicode" height="28px" width="28px" />
   </a>
 </p>
   
+<h2 align="center">🔧 Languages and Tools</h3>
   
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
